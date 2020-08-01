@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of Pinocchio: The Tale of a Puppet --pg-url https://www.gutenberg.org/ebooks/16865 , by Carlo Collodi</title>
+	<title>The cover for the Standard Ebooks edition of Pinocchio: The Tale of a Puppet, by Carlo Collodi</title>
 	<style type="text/css">
 		.title-box{
 			fill-opacity: .75;
@@ -21,10 +21,9 @@
 			font-size: 46.7840004px;
 		}
 	</style>
-	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
-	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title-xsmall" x="700" y="1740">PINOCCHIO: THE</text>
-	<text class="title-xsmall" x="700" y="1810">TALE OF A PUPPET --PG-URL</text>
-	<text class="title-xsmall" x="700" y="1880">HTTPS://WWW.GUTENBERG.ORG/EBOOKS/16865</text>
+	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg" />
+	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z" />
+	<text class="title-xsmall" x="700" y="1740">PINOCCHIO:</text>
+	<text class="title-xsmall" x="700" y="1810">THE TALE OF A PUPPET</text>
 	<text class="author" x="700" y="1980">CARLO COLLODI</text>
 </svg>

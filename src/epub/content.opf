@@ -27,9 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record" />
-		<dc:title id="title">Pinocchio: The Tale of a Puppet --pg-url https://www.gutenberg.org/ebooks/16865</dc:title>
-		<meta property="file-as" refines="#title">Pinocchio: The Tale of a Puppet --pg-url https://www.gutenberg.org/ebooks/16865
-</meta>
+		<dc:title id="title">Pinocchio: The Tale of a Puppet</dc:title>
+		<meta property="file-as" refines="#title">Pinocchio: The Tale of a Puppet</meta>
 		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
 		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
