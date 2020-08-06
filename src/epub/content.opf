@@ -41,7 +41,7 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/16865</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -49,7 +49,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/carlo-collodi_pinocchio-the-tale-of-a-puppet</meta>
 		<dc:creator id="author">Carlo Collodi</dc:creator>
 		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Carlo Collodi</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Carlo_Collodi</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79063096</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
