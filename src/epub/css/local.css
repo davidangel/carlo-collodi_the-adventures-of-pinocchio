@@ -1,10 +1,10 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-blockquote.centered {
-    text-align: center;
+blockquote.centered{
+	text-align: center;
 }
 
-hr.short {
-    width: 25%;
+hr.short{
+	width: 25%;
 }
