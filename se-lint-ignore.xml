@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-17.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>The text doesn't seem to have a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-32.xhtml">
+		<ignore>
+			<code>t-036</code>
+			<reason>Quotation marks seem to be paired correctly (if not nested too much).</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
