@@ -1,15 +1,14 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:verse"].centered{
+#chapter-23 blockquote p, #chapter-33 blockquote p{
 	text-align: center;
+	text-transform: uppercase;
 }
-
-[epub|type~="z3998:verse"].centered p,
-[epub|type~="z3998:verse"].centered span{
-	text-indent: 0;
+#chapter-33 blockquote p strong{
+	font-size: 1.25rem;
+	font-weight: bold;
 }
-
-hr.short{
-	width: 25%;
+#chapter-33 blockquote hr{
+	width: 33%;
 }
