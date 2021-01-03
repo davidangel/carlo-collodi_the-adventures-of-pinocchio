@@ -32,7 +32,7 @@
 		<dc:subject id="subject-1">Fairy Tales</dc:subject>
 		<dc:subject id="subject-2">Puppets</dc:subject>
 		<meta property="se:subject">Childrens</meta>
-		<dc:description id="description">Carlo Collodi’s infamous story of a puppet who comes to life.</dc:description>
+		<dc:description id="description">A charming children’s tale about a wooden puppet who comes to life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Adventures of Pinocchio&lt;/i&gt; is a story that has reached many people across the globe since it was first penned by &lt;a href="https://standardebooks.org/ebooks/carlo-collodi"&gt;Carlo Collodi&lt;/a&gt; in 1883. The adventures were originally published in serial format in an Italian weekly magazine for children. In 1940, Disney released an animated film adaptation of the story that has solidified the fable in popular culture.&lt;/p&gt;
 			&lt;p&gt;A wooden puppet is crafted out of a magical piece of wood by Geppetto, a humble woodworker. To Geppetto’s surprise, the puppet comes to life. Thus begins the adventures of this magical puppet, Pinocchio. Geppetto takes the role of father to Pinocchio, and tries to stress the importance of his education. Pinocchio, however, is drawn into many mischievous adventures by his peers and others.&lt;/p&gt;
