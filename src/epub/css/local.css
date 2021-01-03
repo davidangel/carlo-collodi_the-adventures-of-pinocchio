@@ -4,6 +4,9 @@
 [epub|type~="z3998:verse"].centered{
 	text-align: center;
 }
+[epub|type~="z3998:verse"].centered p, [epub|type~="z3998:verse"].centered span {
+	text-indent: 0;
+}
 
 hr.short{
 	width: 25%;
