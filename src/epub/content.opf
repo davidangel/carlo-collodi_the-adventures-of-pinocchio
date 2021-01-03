@@ -31,8 +31,12 @@
 		<meta property="file-as" refines="#title">The Adventures of Pinocchio</meta>
 		<dc:subject id="subject-1">Fairy Tales</dc:subject>
 		<dc:subject id="subject-2">Puppets</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Childrens</meta>
-		<dc:description id="description">A charming children’s tale about a wooden puppet who comes to life.</dc:description>
+		<dc:description id="description">A wooden puppet comes to life and goes on adventures.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Adventures of Pinocchio&lt;/i&gt; is a story that has reached many people across the globe since it was first penned by &lt;a href="https://standardebooks.org/ebooks/carlo-collodi"&gt;Carlo Collodi&lt;/a&gt; in 1883. The adventures were originally published in serial format in an Italian weekly magazine for children. In 1940, Disney released an animated film adaptation of the story that has solidified the fable in popular culture.&lt;/p&gt;
 			&lt;p&gt;A wooden puppet is crafted out of a magical piece of wood by Geppetto, a humble woodworker. To Geppetto’s surprise, the puppet comes to life. Thus begins the adventures of this magical puppet, Pinocchio. Geppetto takes the role of father to Pinocchio, and tries to stress the importance of his education. Pinocchio, however, is drawn into many mischievous adventures by his peers and others.&lt;/p&gt;
@@ -40,8 +44,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16865</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102320971</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">41735</meta>
+		<meta property="se:reading-ease.flesch">80.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/carlo-collodi_the-adventures-of-pinocchio</meta>
 		<dc:creator id="author">Carlo Collodi</dc:creator>
@@ -63,6 +67,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
