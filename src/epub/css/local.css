@@ -4,10 +4,15 @@
 #chapter-23 blockquote p, #chapter-33 blockquote p{
 	text-align: center;
 	text-transform: uppercase;
+	text-indent: none;
 }
 #chapter-33 blockquote p strong{
 	font-size: 1.25rem;
 	font-weight: bold;
+}
+#chapter-33 blockquote footer {
+	margin-top: 1em;
+	text-align: center;
 }
 #chapter-33 blockquote hr{
 	width: 33%;
