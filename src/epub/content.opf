@@ -28,7 +28,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Adventures of Pinocchio</dc:title>
-		<meta property="file-as" refines="#title">The Adventures of Pinocchio</meta>
+		<meta property="file-as" refines="#title">Adventures of Pinocchio, The</meta>
 		<dc:subject id="subject-1">Fairy Tales</dc:subject>
 		<dc:subject id="subject-2">Puppets</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
